@@ -1,9 +1,9 @@
-# ada-gaf-fusion ![Logo](logo/ADA_forecast_logo.png)
+# ada-gaf-fusion
 <p align="center">
   <img src="logo/ADA_forecast_logo.png" width="333" alt="Digital Hana Arts">
 </p>
 
-<h1 align="center">Digital__Hana__Arts®</h1>
+<h1 align="center">-ADA PRICE PREDICTOR-</h1>
 
 <p align="center">
   <strong>Computational Creativity · Data · Intelligence · Digital Art</strong>
