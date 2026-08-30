@@ -1,4 +1,3 @@
-# ada-gaf-fusion
 <p align="center">
   <img src="logo/ADA_forecast_logo.png" width="333" alt="Digital Hana Arts">
 </p>
