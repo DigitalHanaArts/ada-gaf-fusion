@@ -14,11 +14,14 @@ Hybrid ADAUSDT price forecasting using Gramian Angular Field images, ResNet18, L
 ---
 ---
 <p align="center">
-  <img src="logo/Fusion_model_felowchart.png" width="888" alt="Digital Hana Arts">
+  <img src="logo/Fusion_model_felowchart.png" width="666" alt="Digital Hana Arts">
 </p>
----
----
 
+
+---
+---
+---
+---
 
 <p align="center">
   <img src="logo/DHA_logo.png" width="333" alt="Digital Hana Arts">
